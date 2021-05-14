@@ -1,0 +1,10 @@
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\bin\Debug\Color Standard Folder Labels.exe.config
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\bin\Debug\Color Standard Folder Labels.exe
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\bin\Debug\Color Standard Folder Labels.pdb
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\obj\Debug\Mold_Number_Folder_Labels.Classes.Form1.resources
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\obj\Debug\Color_Standard_Folder_Labels.Properties.Resources.resources
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\obj\Debug\Color Standard Folder Labels.csproj.GenerateResource.cache
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\obj\Debug\Color Standard Folder Labels.csproj.CoreCompileInputs.cache
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\obj\Debug\Color Standard Folder Labels.exe
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\obj\Debug\Color Standard Folder Labels.pdb
+C:\Users\val\OneDrive - Poly Print, Inc\Documents\CSharpFolder\Color Standard Folder Labels\obj\Debug\Color Standard Folder Labels.csprojAssemblyReference.cache
